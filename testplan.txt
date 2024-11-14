@@ -1,0 +1,57 @@
+| Task                        | Description                                                                                             |
+
+|-----------------------------|---------------------------------------------------------------------------------------------------------|
+
+| Developer Environment Setup | IDE, Source control tools, HTTP Server, PHP                                                             |
+
+| Git / SVN Account           |                                                                                                         |
+
+| Step 1: Basic               |                                                                                                         |
+
+| SOLID Concept               | 5 Concepts, basic object-oriented programming                                                           |
+
+| Clean Code Practices        | PHP Best Practice                                                                                      |
+
+| Design Pattern              | Understand at least 6 design patterns                                                                    |
+
+| Database                    | ERD SQL / Task                                                                                          |
+
+| JavaScript                  | Practices / Task                                                                                        |
+
+|                             | JavaScript OOP                                                                                          |
+
+|                             | JavaScript design pattern                                                                               |
+
+|                             | JavaScript MV*                                                                                          |
+
+| Web development             | RestAPI, MVC                                                                                            |
+
+| Docker                      |                                                                                                         |
+
+| Agile                       |                                                                                                         |
+
+| Step 2: Technical - Basic   |                                                                                                         |
+
+| File Type Converter         | Create a web application that converts file types from JSON, XML, CSV to JSON, XML, CSV, YAML using PHP  |
+
+| Car Rental                  | Create a web application that allows users to view available cars and book for a period                 |
+
+| Photo Gallery               | JavaScript app that lists and views products                                                             |
+
+| Step 2: Technical - Orientation |                                                                                                     |
+
+| Symfony 2                   | Documentation / Web API / Doctrine / MVC                                                                 |
+
+| Angular / VueJS             | Front-end application consume API                                                                       |
+
+| Git: Developer Workflow     | Basic need to clone/commit/push changes into server                                                     |
+
+| SVN: Developer              | Basic update service / update merge                                                                     |
+
+| Projects (one project)      |                                                                                                         |
+
+| File Management System      | Application for uploading files and pictures using web API                                             |
+
+| Task Management System      | Application for tracking tasks - duration and progress web API                                          |
+
+| Support Ticket System       | System for request tracking system                                                                      |
