@@ -2,13 +2,13 @@
 
 |-----------------------------|---------------------------------------------------------------------------------------------------------|
 
-| Developer Environment Setup | IDE, Source control tools, HTTP Server, PHP                                                             |
+| Developer Environment Setup | IDE, Source control tools, HTTP Server, PHP ✅                                                            |
 
-| Git / SVN Account           |                                                                                                         |
+| Git / SVN Account           | ✅                                                                                                         |
 
 | Step 1: Basic               |                                                                                                         |
 
-| SOLID Concept               | 5 Concepts, basic object-oriented programming                                                           |
+| SOLID Concept               | 5 Concepts, basic object-oriented programming                                                            |
 
 | Clean Code Practices        | PHP Best Practice                                                                                      |
 
